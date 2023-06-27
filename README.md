@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Assignments</h1> 
+<h1> Assignments - Control Techniques</h1> 
 <p>
  
   **Dylan Ortiz Mayorga**
