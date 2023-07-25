@@ -14,7 +14,7 @@ Assignment of Control Thechniques from Universidad Nacional de Colombia 2023-I
 
 Hinf
 
-[H-infinity](https://github.com/user/repo/blob/branch/other_file.md)
+[H-infinity](Hinf/H-infinity.md)
 
 SMC
 
