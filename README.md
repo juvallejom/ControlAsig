@@ -18,4 +18,4 @@ Hinf
 
 SMC
 
-[MRAC](https://github.com/juvallejom/ControlAsig/blob/893a767160f5e5ce219ca68f01dfbc522903e08f/Hinf/H-infinity.md)
+[MRAC](https://github.com/juvallejom/ControlAsig/blob/26c0688dad5db77e5c5676adef74548e4237ec9e/MRAC/MRAC.md)
